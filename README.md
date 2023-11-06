@@ -1,6 +1,6 @@
 # Favorite Ice Cream Flavors
 
-#### By **DWilken02
+#### By **DWilken02**
 
 #### _A list you can add your favorite flavors to_
 
